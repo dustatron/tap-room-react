@@ -9,7 +9,7 @@ This app will show all the kegs available in a tap room and allow a user to up u
 
 ### [Link to working demo](https://mccords-taproom-react.netlify.app/)
 
-![Wireframe / Node mockup](src/_img/mockup.jpg)
+![Wireframe / Node mockup](src/img/mockup.jpg)
 
 ## Specs
 
