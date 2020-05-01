@@ -39,10 +39,12 @@ Clone the project by typing this command into your terminal.
 ```sh
 git clone https://github.com/dustatron/tap-room-react.git
 ```
+
 Navigate to the new project folder by typing:
 ```sh
 cd tap-room-react
 ```
+
 Install all required packages with this command:
 ```sh
 npm install
